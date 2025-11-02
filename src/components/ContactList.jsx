@@ -22,7 +22,10 @@ const ContactList = () => {
           fullWidth
           sx={{
             "& .MuiInputBase-input": {
-              backgroundColor: "#f0f0f0",
+              backgroundColor: "#fbfbfbff",
+              fontFamily: "OngleipParkDahyeon",
+            },
+            "& .MuiInputLabel-root": {
               fontFamily: "OngleipParkDahyeon",
             },
             "& .MuiOutlinedInput-root": {
